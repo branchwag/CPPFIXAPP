@@ -11,3 +11,6 @@ make clean
 make
 ./bin/simpleclient cfg/client.cfg
 ```
+
+To view front-end:
+http://localhost:3000/

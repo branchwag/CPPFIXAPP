@@ -1,6 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++11 -Wall -g
-#LDFLAGS = -lquickfix -lpthread -lxml2
+CXXFLAGS = -std=c++11 -Wall -g -D_REENTRANT
 LDFLAGS = -Wl,-rpath,/usr/local/lib -lquickfix -lpthread -lxml2
 
 # Directories

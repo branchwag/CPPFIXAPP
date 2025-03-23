@@ -1,13 +1,52 @@
-20250323-16:46:27.924826000 : Created session
-20250323-16:46:27.925608000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
-20250323-16:46:27.925919000 : Initiated logon request
-20250323-16:46:27.947376000 : Received logon response
-20250323-16:46:27.947381000 : MsgSeqNum too high, expecting 1 but received 6
-20250323-16:46:27.947437000 : Sent ResendRequest FROM: 1 TO: 0
-20250323-16:46:39.950694000 : MsgSeqNum too high, expecting 1 but received 7
-20250323-16:46:39.950712000 : Already sent ResendRequest FROM: 1 TO: 5.  Not sending another.
-20250323-16:47:03.883623000 : Sent test request TEST
-20250323-16:47:03.901887000 : MsgSeqNum too high, expecting 1 but received 8
-20250323-16:47:03.901898000 : Already sent ResendRequest FROM: 1 TO: 5.  Not sending another.
-20250323-16:47:09.983754000 : MsgSeqNum too high, expecting 1 but received 9
-20250323-16:47:09.983770000 : Already sent ResendRequest FROM: 1 TO: 5.  Not sending another.
+20250323-18:36:12.561066000 : Created session
+20250323-18:36:12.561789000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:36:12.562027000 : Initiated logon request
+20250323-18:36:12.562031000 : Disconnecting
+20250323-18:36:12.562062000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:36:12.562100000 : Disconnecting
+20250323-18:37:12.118444000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:37:12.118943000 : Initiated logon request
+20250323-18:37:12.118956000 : Disconnecting
+20250323-18:38:12.692089000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:38:12.692428000 : Initiated logon request
+20250323-18:38:12.692434000 : Disconnecting
+20250323-18:39:12.234055000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:39:12.234271000 : Initiated logon request
+20250323-18:39:12.234277000 : Disconnecting
+20250323-18:40:12.060907000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:40:12.061288000 : Initiated logon request
+20250323-18:40:12.061294000 : Disconnecting
+20250323-18:41:12.595012000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:41:12.595432000 : Initiated logon request
+20250323-18:41:12.595444000 : Disconnecting
+20250323-18:42:12.496493000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:42:12.496932000 : Initiated logon request
+20250323-18:42:12.496944000 : Disconnecting
+20250323-18:43:12.515197000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:43:12.515631000 : Initiated logon request
+20250323-18:43:12.515643000 : Disconnecting
+20250323-18:44:12.538099000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:44:12.538445000 : Initiated logon request
+20250323-18:44:12.538455000 : Disconnecting
+20250323-18:45:12.225324000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:45:12.225780000 : Initiated logon request
+20250323-18:45:12.225791000 : Disconnecting
+20250323-18:46:12.341618000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:46:12.341975000 : Initiated logon request
+20250323-18:46:12.341984000 : Disconnecting
+20250323-18:47:12.249364000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:47:12.249857000 : Initiated logon request
+20250323-18:47:12.249870000 : Disconnecting
+20250323-18:48:12.156279000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:48:12.156529000 : Initiated logon request
+20250323-18:48:12.156533000 : Disconnecting
+20250323-18:49:12.370651000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:49:12.370991000 : Initiated logon request
+20250323-18:49:12.371000000 : Disconnecting
+20250323-18:50:12.058372000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-18:50:12.058679000 : Initiated logon request
+20250323-18:50:12.058686000 : Disconnecting
+20250323-20:18:19.069129000 : Created session
+20250323-20:18:19.069787000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-20:18:19.070207000 : Initiated logon request
+20250323-20:18:19.100861000 : Received logon response
