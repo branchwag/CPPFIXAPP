@@ -7,11 +7,11 @@
 #include <quickfix/Application.h>
 #include <quickfix/MessageCracker.h>
 
-class SimpleApplication : public FIX::Application, public FIX::MessageCracker {
+class FIXApplication : public FIX::Application, public FIX::MessageCracker {
 private: 
     bool connected; 
 public: 
-    SimpleApplication() : connected(false) {}
+    FIXApplication() : connected(false) {}
     
     void onCreate(const FIX::SessionID&) override {}
     
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
     std::string configFile = argv[1];
     try {
         FIX::SessionSettings settings(configFile);
-        SimpleApplication application;
+        FIXApplication application;
         FIX::FileStoreFactory storeFactory(settings);
         FIX::FileLogFactory logFactory(settings);
         FIX::SocketInitiator initiator(application, storeFactory, settings, logFactory);
