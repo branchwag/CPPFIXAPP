@@ -7,6 +7,7 @@ https://github.com/quickfix/quickfix
 
 To run this app:
 ```
+make clean
 make
 ./bin/simpleclient cfg/client.cfg
 ```

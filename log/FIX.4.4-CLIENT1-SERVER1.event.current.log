@@ -1,6 +1,13 @@
-20250323-13:46:46.852172000 : Created session
-20250323-13:46:46.852837000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
-20250323-13:46:46.853020000 : Initiated logon request
-20250323-13:46:46.853024000 : Disconnecting
-20250323-13:46:46.853054000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
-20250323-13:46:46.853075000 : Disconnecting
+20250323-16:46:27.924826000 : Created session
+20250323-16:46:27.925608000 : Connecting to 127.0.0.1 on port 5001 (Source :0) ReconnectInterval=60
+20250323-16:46:27.925919000 : Initiated logon request
+20250323-16:46:27.947376000 : Received logon response
+20250323-16:46:27.947381000 : MsgSeqNum too high, expecting 1 but received 6
+20250323-16:46:27.947437000 : Sent ResendRequest FROM: 1 TO: 0
+20250323-16:46:39.950694000 : MsgSeqNum too high, expecting 1 but received 7
+20250323-16:46:39.950712000 : Already sent ResendRequest FROM: 1 TO: 5.  Not sending another.
+20250323-16:47:03.883623000 : Sent test request TEST
+20250323-16:47:03.901887000 : MsgSeqNum too high, expecting 1 but received 8
+20250323-16:47:03.901898000 : Already sent ResendRequest FROM: 1 TO: 5.  Not sending another.
+20250323-16:47:09.983754000 : MsgSeqNum too high, expecting 1 but received 9
+20250323-16:47:09.983770000 : Already sent ResendRequest FROM: 1 TO: 5.  Not sending another.
